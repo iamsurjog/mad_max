@@ -5,3 +5,13 @@
  py -m venv ./.venv
  pip install -r requirements.txt
 ```
+
+# ignore this shi
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
